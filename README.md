@@ -1,4 +1,5 @@
 <h1 align="center">Trace Remover — Linux Forensic Trace Remover</h1>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.6+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Version" />
   <img src="https://img.shields.io/badge/Platform-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Platform" />
@@ -11,6 +12,10 @@
 <p align="center">
   <strong>High-performance Linux log sanitizer and system trace cleaner for VPS hygiene and lab environments.</strong>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tausifzaman/Linux-trace-remover/refs/heads/main/img.jpg" alt="Trace Remover Banner" width="100%" />
+</p>
+
 
 ---
 
@@ -112,7 +117,7 @@ While completely standalone, the script automatically detects and utilizes the f
 ```bash
 # Clone the repository
 git clone https://github.com/tausifzaman/Linux-trace-remover.git
-cd trace-remover
+cd Linux-trace-remover
 
 # Ensure executable permissions
 chmod +x trace_remover.py
