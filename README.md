@@ -202,3 +202,7 @@ Contributions, bug reports, and pull requests are encouraged:
 ## License
 
 Distributed under the **MIT License**. See `LICENSE` for more information.
+
+---
+
+[![GitGem](https://gitgem.org/api/badge/github/tausifzaman/Linux-trace-remover.svg)](https://gitgem.org/github/tausifzaman/Linux-trace-remover)
