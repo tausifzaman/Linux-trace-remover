@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
-
-
 import os
 import sys
 import subprocess
@@ -8,6 +6,7 @@ import shutil
 import glob
 import time
 from pathlib import Path
+os.system("clear" if os.name == "posix" else "cls")
 
 RED    = "\033[91m"
 GREEN  = "\033[92m"
@@ -457,7 +456,7 @@ def show_menu():
     print(ASCII_BANNER)
     print(f"""{CYAN}{BOLD}
 ╔══════════════════════════════════════════════════════════════════╗
-║              TRACE REMOVER v1.0.0  —  POWER MENU                    ║
+║              TRACE REMOVER v1.0.0  —  POWER MENU                 ║
 ║         Choose how hard you want the clean to be                 ║
 ╚══════════════════════════════════════════════════════════════════╝
 {RESET}
