@@ -1,8 +1,4 @@
-<center>
-
-  
-# Trace Remover — Linux Forensic Trace Remover
-</center>
+<h1 align="center">Trace Remover — Linux Forensic Trace Remover</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.6+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Version" />
   <img src="https://img.shields.io/badge/Platform-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Platform" />
